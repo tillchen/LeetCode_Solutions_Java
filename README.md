@@ -23,6 +23,7 @@ This repository contains my solutions for LeetCode problems in the sequence of [
 * [Maximum Subarray](Sequences/MaximumSubarray.java) (Easy, Dynamic Programming)
 * [3Sum](Sequences/3Sum.java) (Medium, Unfinished)
 * [Merge Intervals](Sequences/MergeIntervals.java) (Medium)
+* [Group Anagrams](Sequences/GroupAnagrams.java) (Medium, HashMap)
 
 ## References
 
