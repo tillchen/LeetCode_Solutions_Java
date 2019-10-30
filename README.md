@@ -28,8 +28,9 @@ This repository contains my solutions for LeetCode problems in the sequence of [
 
 ### Data Structures
 
-* [Reverse a Linked List](DataStructures/ReverseALinkedList.java)
-* [Detect Cycle in a Linked List](DataStructures/DetectCycleInALinkedList.java)
+* [Reverse a Linked List](DataStructures/ReverseALinkedList.java) (Easy)
+* [Detect Cycle in a Linked List](DataStructures/DetectCycleInALinkedList.java) (Easy, HashSet)
+* Container With Most Water (Medium, Unsolved)
 
 ## References
 
