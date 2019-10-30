@@ -31,7 +31,9 @@ This repository contains my solutions for LeetCode problems in the sequence of [
 * [Reverse a Linked List](DataStructures/ReverseALinkedList.java) (Easy)
 * [Detect Cycle in a Linked List](DataStructures/DetectCycleInALinkedList.java) (Easy, HashSet)
 * Container With Most Water (Medium, Unsolved)
+* Longest Repeating Character Replacement (Medium, Unsolved)
 
 ## References
 
+* [Best Practice Questions](https://yangshun.github.io/tech-interview-handbook/best-practice-questions/#!)
 * [Blankj/awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
