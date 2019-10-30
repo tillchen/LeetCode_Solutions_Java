@@ -22,6 +22,7 @@ This repository contains my solutions for LeetCode problems in the sequence of [
 * Product of Array Except Self (Medium, Unsolved)
 * [Maximum Subarray](Sequences/MaximumSubarray.java) (Easy, Dynamic Programming)
 * [3Sum](Sequences/3Sum.java) (Medium, Unfinished)
+* [Merge Intervals](Sequences/MergeIntervals.java) (Medium)
 
 ## References
 
