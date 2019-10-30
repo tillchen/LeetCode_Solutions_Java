@@ -4,6 +4,7 @@
   * [About](#about)
   * [Problems](#problems)
     * [Sequences](#sequences)
+    * [Data Structures](#data-structures)
   * [References](#references)
 
 ## About
@@ -24,6 +25,11 @@ This repository contains my solutions for LeetCode problems in the sequence of [
 * [3Sum](Sequences/3Sum.java) (Medium, Unfinished)
 * [Merge Intervals](Sequences/MergeIntervals.java) (Medium)
 * [Group Anagrams](Sequences/GroupAnagrams.java) (Medium, HashMap)
+
+### Data Structures
+
+* [Reverse a Linked List](DataStructures/ReverseALinkedList.java)
+* [Detect Cycle in a Linked List](DataStructures/DetectCycleInALinkedList.java)
 
 ## References
 
