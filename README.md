@@ -4,6 +4,7 @@
   * [About](#about)
   * [Problems](#problems)
     * [Sequences](#sequences)
+  * [References](#references)
 
 ## About
 
@@ -19,3 +20,8 @@ This repository contains my solutions for LeetCode problems in the sequence of [
 * [Valid Anagram](Sequences/ValidAnagram.java) (Easy)
 * [Valid Parentheses](Sequences/ValidParentheses.java) (Easy)
 * Product of Array Except Self (Medium, Unsolved)
+* [Maximum Subarray](Sequences/MaximumSubarray.java) (Easy, Dynamic Programming)
+
+## References
+
+* [Blankj/awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
