@@ -21,6 +21,7 @@ This repository contains my solutions for LeetCode problems in the sequence of [
 * [Valid Parentheses](Sequences/ValidParentheses.java) (Easy)
 * Product of Array Except Self (Medium, Unsolved)
 * [Maximum Subarray](Sequences/MaximumSubarray.java) (Easy, Dynamic Programming)
+* [3Sum](Sequences/3Sum.java) (Medium, Unfinished)
 
 ## References
 
