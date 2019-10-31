@@ -32,6 +32,10 @@ This repository contains my solutions for LeetCode problems in the sequence of [
 * [Detect Cycle in a Linked List](DataStructures/DetectCycleInALinkedList.java) (Easy, HashSet)
 * Container With Most Water (Medium, Unsolved)
 * Longest Repeating Character Replacement (Medium, Unsolved)
+* Longest Substring Without Repeating Characters (Medium, Unsolved)
+* Minimum Window Substring (Hard, Unsolved)
+* Number of Islands (Medium, Unsolved)
+* [Remove NthNode From End Of List](DataStructures/RemoveNthNodeFromEndOfList.java) (Medium)
 
 ## References
 
