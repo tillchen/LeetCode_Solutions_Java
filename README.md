@@ -43,6 +43,7 @@ This repository contains my solutions for LeetCode problems in the sequence of [
 ## Non-Linear Data Structures
 
 * [Validate Binary Search Tree](NonLinearDataStructures/ValidateBinarySearchTree.java) (Easy, Recursion)
+* [Invert/Flip Binary Tree](NonLinearDataStructures/InvertFlipBInaryTree.java) (Easy, Recursion)
 
 ## References
 
