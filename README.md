@@ -6,6 +6,7 @@
     * [Sequences](#sequences)
     * [Data Structures](#data-structures)
   * [Non-Linear Data Structures](#non-linear-data-structures)
+  * [Dynamic Programming](#dynamic-programming)
   * [References](#references)
 
 ## About
@@ -44,6 +45,11 @@ This repository contains my solutions for LeetCode problems in the sequence of [
 
 * [Validate Binary Search Tree](NonLinearDataStructures/ValidateBinarySearchTree.java) (Easy, Recursion)
 * [Invert/Flip Binary Tree](NonLinearDataStructures/InvertFlipBInaryTree.java) (Easy, Recursion)
+* Non-overlapping Intervals (Medium, Unsolved)
+
+## Dynamic Programming
+
+* [Climbing Stairs](DynamicProgramming/ClimbingStairs.java) (Easy)
 
 ## References
 
