@@ -5,6 +5,7 @@
   * [Problems](#problems)
     * [Sequences](#sequences)
     * [Data Structures](#data-structures)
+  * [Non-Linear Data Structures](#non-linear-data-structures)
   * [References](#references)
 
 ## About
@@ -36,6 +37,12 @@ This repository contains my solutions for LeetCode problems in the sequence of [
 * Minimum Window Substring (Hard, Unsolved)
 * Number of Islands (Medium, Unsolved)
 * [Remove NthNode From End Of List](DataStructures/RemoveNthNodeFromEndOfList.java) (Medium)
+* Palindromic Substrings (Medium, Unsolved)
+* Pacific Atlantic Water Flow (Medium, Unsolved)
+
+## Non-Linear Data Structures
+
+* [Validate Binary Search Tree](NonLinearDataStructures/ValidateBinarySearchTree.java) (Easy, Recursion)
 
 ## References
 
