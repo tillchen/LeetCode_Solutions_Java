@@ -7,6 +7,7 @@
     * [Data Structures](#data-structures)
   * [Non-Linear Data Structures](#non-linear-data-structures)
   * [Dynamic Programming](#dynamic-programming)
+  * [Graphs](#graphs)
   * [References](#references)
 
 ## About
@@ -50,6 +51,10 @@ This repository contains my solutions for LeetCode problems in the sequence of [
 ## Dynamic Programming
 
 * [Climbing Stairs](DynamicProgramming/ClimbingStairs.java) (Easy)
+
+## Graphs
+
+* [Flood Fill](Graphs/FloodFill.java) (Easy, DFS)
 
 ## References
 
