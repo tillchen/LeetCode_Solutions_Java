@@ -59,6 +59,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 ## Dynamic Programming
 
 * [Climbing Stairs](DynamicProgramming/ClimbingStairs.java) (Easy)
+* [Pascal's Triangle](DynamicProgramming/PascalsTriangle.java) (Easy)
 
 ## References
 
