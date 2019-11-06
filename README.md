@@ -19,7 +19,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 
 * [Two Sum](Sequences/TwoSum.java) (Easy)
 * [Contains Duplicate](Sequences/ContainsDuplicate.java) (Easy)
-* [Best Time to Buy and Sell Stock](Sequences/BestTimeToBuyAndSellStock.java) (Easy)
+* [Best Time to Buy and Sell Stock](Sequences/BestTimeToBuyAndSellStock.java) (Easy) (One Pass)
 * [Valid Anagram](Sequences/ValidAnagram.java) (Easy)
 * [Valid Parentheses](Sequences/ValidParentheses.java) (Easy)
 * Product of Array Except Self (Medium, Unsolved)
