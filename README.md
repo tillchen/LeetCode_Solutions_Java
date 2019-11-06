@@ -31,6 +31,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * [13. Roman to Integer](Sequences/RomanToInteger.java) (Easy, HashMap)
 * [14. Longest Common Prefix](Sequences/LongestCommonPrefix.java) (Easy)
 * [26. Remove Duplicates from Sorted Array](Sequences/RemoveDuplicatesFromSortedArray.java) (Easy, Two pointers)
+* [122. Best Time to Buy and Sell Stock II](Sequences/BestTimeToBuyAndSellStock2.java) (Easy, One Pass)
 
 ### Data Structures
 
