@@ -53,6 +53,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * Non-overlapping Intervals (Medium, Unsolved)
 * [Flood Fill](NonLinearDataStructures/FloodFill.java) (Easy, DFS)
 * [Symmetric Tree](NonLinearDataStructures/SymmetricTree.java) (Easy, Recursion)
+* [Maximum Depth of Binary Tree](NonLinearDataStructures/MaximumDepthOfBinaryTree.java) (Easy, DFS)
 
 ## Dynamic Programming
 
