@@ -29,6 +29,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * [Merge Intervals](Sequences/MergeIntervals.java) (Medium)
 * [Group Anagrams](Sequences/GroupAnagrams.java) (Medium, HashMap)
 * [7. Reverse Integer](Sequences/ReverseInteger.java) (Easy, StringBuilder, Reverse)
+* [13. Roman to Integer](Sequences/RomanToInteger.java) (Easy, HashMap)
 
 ### Data Structures
 
