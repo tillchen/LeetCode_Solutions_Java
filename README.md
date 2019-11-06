@@ -7,7 +7,6 @@
     * [Data Structures](#data-structures)
   * [Non-Linear Data Structures](#non-linear-data-structures)
   * [Dynamic Programming](#dynamic-programming)
-  * [Graphs](#graphs)
   * [References](#references)
 
 ## About
@@ -52,14 +51,12 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * [Validate Binary Search Tree](NonLinearDataStructures/ValidateBinarySearchTree.java) (Easy, Recursion)
 * [Invert/Flip Binary Tree](NonLinearDataStructures/InvertFlipBInaryTree.java) (Easy, Recursion)
 * Non-overlapping Intervals (Medium, Unsolved)
+* [Flood Fill](NonLinearDataStructures/FloodFill.java) (Easy, DFS)
+* [Symmetric Tree](NonLinearDataStructures/SymmetricTree.java) (Easy, Recursion)
 
 ## Dynamic Programming
 
 * [Climbing Stairs](DynamicProgramming/ClimbingStairs.java) (Easy)
-
-## Graphs
-
-* [Flood Fill](Graphs/FloodFill.java) (Easy, DFS)
 
 ## References
 
