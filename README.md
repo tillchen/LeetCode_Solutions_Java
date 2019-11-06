@@ -54,6 +54,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * [Flood Fill](NonLinearDataStructures/FloodFill.java) (Easy, DFS)
 * [Symmetric Tree](NonLinearDataStructures/SymmetricTree.java) (Easy, Recursion)
 * [Maximum Depth of Binary Tree](NonLinearDataStructures/MaximumDepthOfBinaryTree.java) (Easy, DFS)
+* [Convert Sorted Array to Binary Search Tree](NonLinearDataStructures/ConvertSortedArrayToBinarySearchTree.java) (Easy, Recursion)
 
 ## Dynamic Programming
 
