@@ -47,6 +47,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * Palindromic Substrings (Medium, Unsolved)
 * Pacific Atlantic Water Flow (Medium, Unsolved)
 * [21. Merge Two Sorted LIsts](DataStructures/MergeTwoSortedLists.java) (Easy, DummyNode)
+* [136. Single Number](DataStructures/SingleNumber.java) (Easy, HashMap)
 
 ## Non-Linear Data Structures
 
