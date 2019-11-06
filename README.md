@@ -44,6 +44,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * [Remove NthNode From End Of List](DataStructures/RemoveNthNodeFromEndOfList.java) (Medium)
 * Palindromic Substrings (Medium, Unsolved)
 * Pacific Atlantic Water Flow (Medium, Unsolved)
+* [21. Merge Two Sorted LIsts](DataStructures/MergeTwoSortedLists.java) (Easy, DummyNode)
 
 ## Non-Linear Data Structures
 
