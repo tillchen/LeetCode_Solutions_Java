@@ -30,6 +30,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * [Group Anagrams](Sequences/GroupAnagrams.java) (Medium, HashMap)
 * [7. Reverse Integer](Sequences/ReverseInteger.java) (Easy, StringBuilder, Reverse)
 * [13. Roman to Integer](Sequences/RomanToInteger.java) (Easy, HashMap)
+* [14. Longest Common Prefix](Sequences/LongestCommonPrefix.java) (Easy)
 
 ### Data Structures
 
