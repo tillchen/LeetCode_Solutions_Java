@@ -12,7 +12,7 @@
 
 ## About
 
-This repository contains my solutions for LeetCode problems in the sequence of [Best Practice Questions](https://yangshun.github.io/tech-interview-handbook/best-practice-questions/#!). The language used is mainly Java.
+This repository contains my solutions for LeetCode problems following [Best Practice Questions](https://yangshun.github.io/tech-interview-handbook/best-practice-questions/#!) and the top interview questions on LeetCode. The language used is Java.
 
 ## Problems
 
@@ -28,6 +28,7 @@ This repository contains my solutions for LeetCode problems in the sequence of [
 * [3Sum](Sequences/3Sum.java) (Medium, Unfinished)
 * [Merge Intervals](Sequences/MergeIntervals.java) (Medium)
 * [Group Anagrams](Sequences/GroupAnagrams.java) (Medium, HashMap)
+* [Reverse Integer](Sequences/ReverseInteger.java) (Easy, StringBuilder, Reverse)
 
 ### Data Structures
 
