@@ -34,6 +34,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * [122. Best Time to Buy and Sell Stock II](Sequences/BestTimeToBuyAndSellStock2.java) (Easy, One Pass)
 * [125. Valid Palindrome](Sequences/ValidPalindrome.java) (Easy)
 * [169. Majority Element](Sequences/MajorityElement.java) (Easy, Sorting)
+* [171. Excel Sheet Column Number](Sequences/ExcelSheetColumnNumber.java) (Easy, Math)
 
 ### Data Structures
 
