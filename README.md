@@ -48,6 +48,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * Pacific Atlantic Water Flow (Medium, Unsolved)
 * [21. Merge Two Sorted LIsts](DataStructures/MergeTwoSortedLists.java) (Easy, DummyNode)
 * [136. Single Number](DataStructures/SingleNumber.java) (Easy, HashMap)
+* [155. Min Stack](DataStructures/MinStack.java) (Easy, Implementation)
 
 ## Non-Linear Data Structures
 
