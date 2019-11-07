@@ -7,6 +7,7 @@
     * [Data Structures](#data-structures)
   * [Non-Linear Data Structures](#non-linear-data-structures)
   * [Dynamic Programming](#dynamic-programming)
+  * [Math](#math)
   * [References](#references)
 
 ## About
@@ -67,6 +68,10 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 
 * [Climbing Stairs](DynamicProgramming/ClimbingStairs.java) (Easy)
 * [Pascal's Triangle](DynamicProgramming/PascalsTriangle.java) (Easy)
+
+## Math
+
+* [172. Factorial Trailing Zeroes](Math/FactorialTrailingZeroes.java) (Easy)
 
 ## References
 
