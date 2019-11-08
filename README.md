@@ -38,6 +38,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * [171. Excel Sheet Column Number](Sequences/ExcelSheetColumnNumber.java) (Easy, Math)
 * [268. Missing Number](Sequences/MissingNumber.java) (Easy, Sorting)
 * [283. Move Zeroes](Sequences/MoveZeroes.java) (Easy)
+* [344. Reverse String](Sequences/ReverseString.java) (Easy)
 
 ### Data Structures
 
