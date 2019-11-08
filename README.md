@@ -37,6 +37,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * [169. Majority Element](Sequences/MajorityElement.java) (Easy, Sorting)
 * [171. Excel Sheet Column Number](Sequences/ExcelSheetColumnNumber.java) (Easy, Math)
 * [268. Missing Number](Sequences/MissingNumber.java) (Easy, Sorting)
+* [283. Move Zeroes](Sequences/MoveZeroes.java) (Easy)
 
 ### Data Structures
 
