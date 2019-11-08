@@ -36,6 +36,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * [125. Valid Palindrome](Sequences/ValidPalindrome.java) (Easy)
 * [169. Majority Element](Sequences/MajorityElement.java) (Easy, Sorting)
 * [171. Excel Sheet Column Number](Sequences/ExcelSheetColumnNumber.java) (Easy, Math)
+* [268. Missing Number](Sequences/MissingNumber.java) (Easy, Sorting)
 
 ### Data Structures
 
