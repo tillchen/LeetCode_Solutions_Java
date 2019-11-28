@@ -40,6 +40,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * [283. Move Zeroes](Sequences/MoveZeroes.java) (Easy)
 * [344. Reverse String](Sequences/ReverseString.java) (Easy)
 * [387. First Unique Character in a String](Sequences/FirstUniqueCharacterInAString.java) (Easy)
+* [9. Palindrome Number](Sequences/PalindromeNumber.java) (Easy)
 
 ### Data Structures
 
