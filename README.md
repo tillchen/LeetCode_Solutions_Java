@@ -59,6 +59,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * [136. Single Number](DataStructures/SingleNumber.java) (Easy, HashMap)
 * [155. Min Stack](DataStructures/MinStack.java) (Easy, Implementation)
 * [160. Intersection of Two Linked Lists](DataStructures/IntersectionOfTwoLinkedLists.java) (Easy, HashMap)
+* [83. Remove Duplicates from Sorted List](DataStructures/RemoveDuplicatesFromSortedList.java) (Easy, LinkedList)
 
 ## Non-Linear Data Structures
 
