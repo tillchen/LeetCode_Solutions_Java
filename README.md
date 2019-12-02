@@ -77,6 +77,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 
 * [Climbing Stairs](DynamicProgramming/ClimbingStairs.java) (Easy)
 * [Pascal's Triangle](DynamicProgramming/PascalsTriangle.java) (Easy)
+* [119. Pascal's Triangle II](DynamicProgramming/PascalsTriangle2.java)
 
 ## Math
 
