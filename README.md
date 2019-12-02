@@ -60,7 +60,6 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * [155. Min Stack](DataStructures/MinStack.java) (Easy, Implementation)
 * [160. Intersection of Two Linked Lists](DataStructures/IntersectionOfTwoLinkedLists.java) (Easy, HashMap)
 * [83. Remove Duplicates from Sorted List](DataStructures/RemoveDuplicatesFromSortedList.java) (Easy, LinkedList)
-* [100. Same Tree](DataStructures/SameTree.java) (Easy)
 
 ## Non-Linear Data Structures
 
@@ -71,6 +70,8 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * [Symmetric Tree](NonLinearDataStructures/SymmetricTree.java) (Easy, Recursion)
 * [Maximum Depth of Binary Tree](NonLinearDataStructures/MaximumDepthOfBinaryTree.java) (Easy, DFS)
 * [Convert Sorted Array to Binary Search Tree](NonLinearDataStructures/ConvertSortedArrayToBinarySearchTree.java) (Easy, Recursion)
+* [100. Same Tree](NonLinearDataStructures/SameTree.java) (Easy)
+* [112. Path Sum](NonLinearDataStructures/PathSum.java) (Easy)
 
 ## Dynamic Programming
 
