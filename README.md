@@ -41,7 +41,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * [344. Reverse String](Sequences/ReverseString.java) (Easy)
 * [387. First Unique Character in a String](Sequences/FirstUniqueCharacterInAString.java) (Easy)
 * [9. Palindrome Number](Sequences/PalindromeNumber.java) (Easy)
-* [35. Serach Insert Position](Sequences/SearchInsertPosition.java) (Easy)
+* [35. Search Insert Position](Sequences/SearchInsertPosition.java) (Easy)
 
 ### Data Structures
 
@@ -60,6 +60,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * [155. Min Stack](DataStructures/MinStack.java) (Easy, Implementation)
 * [160. Intersection of Two Linked Lists](DataStructures/IntersectionOfTwoLinkedLists.java) (Easy, HashMap)
 * [83. Remove Duplicates from Sorted List](DataStructures/RemoveDuplicatesFromSortedList.java) (Easy, LinkedList)
+* [100. Same Tree](DataStructures/SameTree.java) (Easy)
 
 ## Non-Linear Data Structures
 
