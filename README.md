@@ -42,6 +42,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * [387. First Unique Character in a String](Sequences/FirstUniqueCharacterInAString.java) (Easy)
 * [9. Palindrome Number](Sequences/PalindromeNumber.java) (Easy)
 * [35. Search Insert Position](Sequences/SearchInsertPosition.java) (Easy)
+* [167. Two Sum II - Input array is sorted](Sequences/TowSum2.java)
 
 ### Data Structures
 
