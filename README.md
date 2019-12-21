@@ -86,6 +86,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * [204. Count Primes](Math/CountPrimes.java) (Easy)
 * [326. Power of Three](Math/PowerOfThree.java) (Easy)
 * [412. Fizz Buzz](Math/FizzBuzz.java) (Easy)
+* [202. Happy Number](Math/HappyNumber.java) (Easy, HashSet)
 
 ## References
 
