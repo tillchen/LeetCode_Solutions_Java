@@ -44,6 +44,7 @@ This repository contains my solutions for LeetCode problems following [Best Prac
 * [35. Search Insert Position](Sequences/SearchInsertPosition.java) (Easy)
 * [167. Two Sum II - Input array is sorted](Sequences/TowSum2.java)
 * [557. Reverse Words in a String III](Sequences/ReverseWordsInAString3.java) (Easy)
+* [3. Longest Substring Without Repeating Characters](Sequences/LongestSubstringWithoutRepeatingCharacters.java) (Medium, Sliding Window)
 
 ### Data Structures
 
